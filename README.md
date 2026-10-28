@@ -83,11 +83,6 @@ Copy the example environment file and fill in your own values:
 ```bash
 cp .env.example .env
 ```
-Then open `.env` and set:
-```
-JWT_SECRET=your_secret_key_here
-PORT=5000
-```
 
 Start the server:
 ```bash
